@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Hands-on Scikit-Learn for Machine Learning Applications*](https://www.apress.com/9781484253724) by %author% (Apress, 2019).
+This repository accompanies [*Hands-on Scikit-Learn for Machine Learning Applications*](https://www.apress.com/9781484253724) by David Paper (Apress, 2019).
 
 [comment]: #cover
 ![Cover image](9781484253724.jpg)
